@@ -98,7 +98,7 @@ The output of this project includes an interactive map that visualizes deforesta
 
 You can view the interactive map by clicking the link below:
 
-[View the Interactive Map](https://arshithbabu.github.io/VegTracker-Landsat-Analysis/deforestation_map.html)
+[View the Interactive Map](https://arshithbabu.github.io/VegTracker-Landsat-Analysis/multiple_deforestation_map.html)
 
 In total, we processed **13 images** from the Landsat dataset, which are included in the map. However, there is potential to include more images for enhanced visualization and analysis. This can help provide a more comprehensive understanding of deforestation patterns over larger areas or time frames.
 
