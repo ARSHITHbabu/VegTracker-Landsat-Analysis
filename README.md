@@ -95,7 +95,7 @@ The project consists of several components, each contributing to the overall fun
 **Output**  
 The analysis generates an interactive HTML map that visualizes the NDVI values and highlights potential deforestation areas based on the specified threshold. You can view the output by clicking the link below:
 
-- **Interactive NDVI Map**: [View NDVI Map]("file:///C:/Users/arshi/Downloads/multiple_deforestation_map%20(5).html")
+- **Interactive NDVI Map**: [View NDVI Map](https://arshithbabu.github.io/VegTracker-Landsat-Analysis/multiple_deforestation_map.html)
 
 ---
 
